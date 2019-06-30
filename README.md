@@ -2,7 +2,7 @@
 First Attempt
 
 
-#### Hello people!
+Hello people!
 Well I'm really happy right now cause I've all my stuff (not even close) carefully ordered!
 
 
@@ -14,5 +14,5 @@ now I want to make more
 (changes)
 Soo.. Let's see what's going to happen
 
-# one last thing
+
 
