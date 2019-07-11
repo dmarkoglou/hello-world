@@ -13,8 +13,8 @@
 ## Set up with RealTerm
 	
 ## Calibration with Kinvent K-Force Evaluation
-[First step](https://github.com/dmarkoglou/hello-world/blame/branch_test_3_URL/Kinvent_KForce_Evaluation.md#L9-L13)
-[Second step](https://github.com/dmarkoglou/hello-world/blob/branch_test_3_URL/Kinvent_KForce_Evaluation.md#tab-serialusb-start)
+- [First step](https://github.com/dmarkoglou/hello-world/blame/branch_test_3_URL/Kinvent_KForce_Evaluation.md#L9-L13)
+- [Second step](https://github.com/dmarkoglou/hello-world/blob/branch_test_3_URL/Kinvent_KForce_Evaluation.md#tab-serialusb-start)
 	
 ## Sticker the Serial Number
 	
