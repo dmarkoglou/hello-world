@@ -1,10 +1,10 @@
 ## Set up with RealTerm
 
-- Tab: Port
+- Tab Port
 	- Set the device (plate/muscle/grip) port by clicking the up-arrow button
 	- Click on the **Open** button
 	
-### Tab: Send
+## Tab Send
 	 Enter the serial number of the device for the name
 		 0x85 0x12 (for the left plate) 0x3X 0x3X 0x3X 0x3X 0x3X (where XXXXX is the serial number)
 		 0x85 0x13 (for the right plate) 0x3X 0x3X 0x3X 0x3X 0x3X (where XXXXX is the serial number)
@@ -14,6 +14,6 @@
 		 0x42 for the plates
 		 Click on the **Send Number** button
 		
-### Tab: Port
+## Tab: Port
 	 Click on the **Open** button for closing the port
 	
