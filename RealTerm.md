@@ -1,6 +1,6 @@
 ## Set up with RealTerm
 
-### Tab: Port
+- Tab: Port
 	- Set the device (plate/muscle/grip) port by clicking the up-arrow button
 	- Click on the **Open** button
 	
